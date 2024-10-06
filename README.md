@@ -22,14 +22,13 @@ python3 main.py
 ```
 ## Project Structure
 ExpenseTracker/
-├── main.py          # Main application file
-├── MainSystem.py    # Class for handling overall functions
-├── Transaction.py   # Class for individual transactions
-├── Calculator.py    # Class for performing calculations like total, monthly total and yearly total
-├── GUI.py           # Class for making GUI using tkinter
-├── Expenses.csv     # CSV file for storing expenses
-├── csvManager.py    # Class for handling csv read, write functions
-└── README.md        # Project documentation
+* main.py          # Main application file
+* MainSystem.py    # Class for handling overall functions
+* Transaction.py   # Class for individual transactions
+* Calculator.py    # Class for performing calculations like total, monthly total and yearly total
+* GUI.py           # Class for making GUI using tkinter
+* Expenses.csv     # CSV file for storing expenses
+* csvManager.py    # Class for handling csv read, write functions
 ## Usage
 1. Launch the application.
 2. Enter the name, amount, and date of the expense in the respective fields. **DO NOT PRESS <ENTER> AFETR TYPING**
