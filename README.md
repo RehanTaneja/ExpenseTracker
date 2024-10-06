@@ -31,7 +31,7 @@ ExpenseTracker/
 * csvManager.py    # Class for handling csv read, write functions
 ## Usage
 1. Launch the application.
-2. Enter the name, amount, and date of the expense in the respective fields. **DO NOT PRESS <ENTER> AFETR TYPING**
+2. Enter the name, amount, and date of the expense in the respective fields. **DO NOT PRESS ENTER AFETR TYPING**
 3. Click "Add Expense" to save the expense.
 4. Use the buttons to view totals,clear expenses and list them.
 ## Acknowledgements
