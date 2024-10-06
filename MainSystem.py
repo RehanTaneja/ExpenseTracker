@@ -32,5 +32,3 @@ class System:
         for rec in rdr:
             l1+=rec
         return l1
-sys1=System("Expenses.csv")
-print(sys1.get_list_of_expenses())
